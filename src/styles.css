@@ -1,0 +1,19 @@
+body {
+  background-color: blanchedalmond;
+}
+
+header,
+main {
+  display: flex;
+  justify-content: center;
+}
+
+label span {
+  justify-content: center;
+}
+
+form input {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+}
